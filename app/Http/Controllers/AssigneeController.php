@@ -29,7 +29,7 @@ class AssigneeController extends Controller
      */
     public function store(StoreAssigneeRequest $request)
     {
-        //
+        // Some random comment to test
     }
 
     /**
